@@ -21,8 +21,8 @@ I'm a passionate 4th-year engineering student at Netaji Subhas University of Tec
 •	Version 2: Building upon the foundation, the second version introduces features such as integration with existing chat groups and the implementation of an automated verification system, streamlining the user entry process. This application also has features like forgot password, login using earlier registered credentials.
 •	Technology Used: Flutter, Dart, Firebase (Authentication and Firebase Cloud console database), Android Studio.
 
-Play Store : https://play.google.com/store/apps/details?id=com.jaybhararia.jchat&hl=en&gl=US
-Github : https://github.com/Jaybhararia/Jchat-PlayStore
+- Play Store : https://play.google.com/store/apps/details?id=com.jaybhararia.jchat&hl=en&gl=US
+- Github : https://github.com/Jaybhararia/Jchat-PlayStore
 
 ## Priority List
 •	Developed a priority list app utilizing the Google Provider package for state management.
@@ -30,9 +30,9 @@ Github : https://github.com/Jaybhararia/Jchat-PlayStore
 •	Demonstrated expertise in integrating third-party packages, designing intuitive UI, and implementing effective state management techniques.
 •	Technology Used – Flutter, Dart and Android Studio.
 
-Play Store : https://play.google.com/store/apps/details?id=com.jaybhararia.prioritylist&hl=en&gl=US
-Website : https://prioritylist.netlify.app/#/
-Github : https://github.com/Jaybhararia/prioritylist
+- Play Store : https://play.google.com/store/apps/details?id=com.jaybhararia.prioritylist&hl=en&gl=US
+- Website : https://prioritylist.netlify.app/#/
+- Github : https://github.com/Jaybhararia/prioritylist
 
 If you want to check my my tens of more projects, check out my Github Profile.
 
